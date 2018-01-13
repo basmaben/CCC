@@ -2,7 +2,7 @@ package ProblemA;
 
 import java.util.Scanner;
 
-public class test {
+public class scorify {
 
     Scanner in=new Scanner(System.in);
 
