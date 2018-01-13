@@ -1,5 +1,5 @@
-package ProblemB;
+package ProblemC;
 
 public class scorify {
-
+ 
 }
