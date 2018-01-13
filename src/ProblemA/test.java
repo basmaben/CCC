@@ -1,12 +1,9 @@
 package ProblemA;
 
-public class test {
-    //test
-    int k;
-    int x;
+import java.util.Scanner;
 
-    public test(int k, int x) {
-        this.k = k;
-        this.x = x;
-    }
+public class test {
+
+    Scanner in=new Scanner(System.in);
+
 }
